@@ -1,0 +1,18 @@
+body{
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc5bzmZdV-iQ3lEh8YmALY2rBAG0e4yc46550MSa_uG-RiYPb9);
+}
+nav {
+	background-color: #00ccff;
+	padding: 10px;
+}
+
+nav a{
+	margin: 0 10px;
+	padding: 5px;
+	color: white;
+}
+
+.name{
+	color: white;
+	text-align: center;
+}
