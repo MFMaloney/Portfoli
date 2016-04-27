@@ -1,0 +1,34 @@
+body{
+	background-color: black
+}
+#octo{
+	line-height: 15px;
+	color:white;
+	padding:20px;
+
+
+}
+
+.cephla{
+	background-color: blue;
+	font-style: bold;
+	text-align: center;
+}
+
+.fishy{
+	font-family: courier;
+	margin: 10px;
+	color:orange;
+	font-size: 14px
+}
+.ocean{
+	border: blue dotted;
+	padding: 10px;
+	color: yellow;
+}
+
+.image{
+	height:500px;
+	width:500px;
+}
+
