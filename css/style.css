@@ -16,3 +16,25 @@ nav a{
 	color: white;
 	text-align: center;
 }
+
+.works{
+	background-color: black;
+	width: 300px;
+	height: 500px;
+	float: left;
+	margin-left: 25px;
+	color:	lightblue;
+}
+
+h4{
+	color: white;
+	text-align: center;
+}
+
+img{
+	width: 400px;
+	height: 500px;
+	margin-left: 20px;
+}
+
+
